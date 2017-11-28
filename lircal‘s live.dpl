@@ -1,1 +1,15 @@
-
+﻿DAUMPLAYLIST
+playname=http://112.89.38.24/PLTV/88888894/224/3221225503/2.m3u8
+topindex=0
+1*file*http://112.89.38.21/PLTV/88888894/224/3221225486/1.m3u8
+1*title*湖南卫视HD
+1*played*0
+2*file*http://112.89.38.21/PLTV/88888894/224/3221225486/1.m3u8
+2*title*北京卫视HD
+2*played*0
+3*file*http://112.89.38.22/PLTV/88888894/224/3221225531/2.m3u8
+3*title*北京卫视HD1
+3*played*0
+4*file*http://112.89.38.24/PLTV/88888894/224/3221225503/2.m3u8
+4*title*CCTV5+ HD
+4*played*0
